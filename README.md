@@ -13,6 +13,9 @@
 
 ## Overview of the Project
 
+![Screenshot 2024-11-07 212607](https://github.com/user-attachments/assets/bfff62bc-ee48-4f2f-9a21-ea9024b51c1a)
+
+
 ### Project: Password Strength Checker
 
 ### Objective
